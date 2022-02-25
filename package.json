@@ -1,0 +1,20 @@
+{
+  "name": "electron_con_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Guido",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "electron-reload": "^2.0.0-alpha.1",
+    "nodemon": "^2.0.15",
+    "promise-mysql": "^5.1.0"
+  },
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}

@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    main{
+        div{
+            .form-control{
+                margin-bottom: 20px;
+                border-radius: 5px;
+            }
+            #products{
+                height: 100vh;
+                overflow-y: auto;
+                padding: 2px;
+            }
+            .delete{
+                background-color: rgb(224, 9, 9);
+                padding: 3px;
+                color:white;
+                width: 80px;
+                border: none;
+                border-radius: 2px;
+            }
+            .edit{
+                background-color: rgb(61, 61, 61);
+                color: white;
+                padding: 3px;
+                width: 80px;
+                border: none;
+                border-radius: 2px;
+            }
+            
+        }
+    }
+}
